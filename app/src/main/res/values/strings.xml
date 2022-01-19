@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Touch Game 2D</string>
+    <string name="play">Play</string>
+    <string name="highScore">High Score</string>
+</resources>

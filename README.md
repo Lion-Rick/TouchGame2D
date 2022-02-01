@@ -16,4 +16,6 @@
 
 キャラクターが障害物に触れると、ゲームは終了します!
 
-NewUpDate:
+申し訳ございませんですけど、新しいものはしたのリンクで確認お願いします。
+
+NewUpDate:https://github.com/Lion-Rick/GameJava.git
